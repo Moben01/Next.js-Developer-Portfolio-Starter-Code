@@ -57,18 +57,38 @@ const about = () => {
                                 Biography
                             </h2>
                             <p className='font-medium'>
-                                Hi, I'm CodeBucks, a web developer and UI/UX designer with a passion for creating beautiful, functional,
-                                and user-centered digital experiences. With 4 years of experience in the field. I am always looking for
-                                new and innovative ways to bring my clients' visions to life.
+                            Hello, I'm Moben Sediqi, an accomplished Web Developer with extensive experience in Python, Javascript,
+                            data science, machine learning and entrepreneurship.
                             </p>
-                            <p className='my-4 font-medium'>
-                                I believe that design is about more than just making things look pretty – it's about solving problems and
-                                creating intuitive, enjoyable experiences for users.
+                            <p className='my-2 font-medium'>
+                            I specialize in developing complex web applications, from large-scale web applications to machine learning 
+                            models and advanced data analysis tools. My expertise in Python and Javascript, along with my experience with
+                            popular frameworks (Django, NodeJS, NextJS) and libraries(React, ReactNative), enables me to create robust and scalable web applications that meets the highest
+                            quality standards.
                             </p>
+                            <p className='my-2 font-medium'>
+                            As an experienced entrepreneur, I have founded and led several successful startups, gaining deep insight
+                            into the business aspects of software development. My entrepreneurial experience has taught me how to
+                            effectively balance the needs of end-users, stakeholders, and development teams to deliver innovative 
+                            and value-driven solutions.
+                            </p>
+                            <p className='my-2 font-medium'>
+                            As a data scientist, I have extensive experience with data analysis, modeling, and visualization, 
+                            leveraging tools such as NumPy, Pandas, PowerBI, Matplotlib, and Scikit-learn. I'm also skilled in using deep learning 
+                            frameworks such as TensorFlow and PyTorch to develop complex neural networks that can solve complex 
+                            business problems.
+                            </p>
+                            <p className='my-2 font-medium'>
+                            Finally, as a strategic thinker, I have a proven track record of building high-performing teams and 
+                            delivering exceptional software solutions. My strong communication skills and ability to work collaboratively
+                            with stakeholders, team members, and partners allow me to deliver innovative and high-quality solutions 
+                            that exceed expectations.
+                            </p>
+
                             <p className='font-medium'>
-                                Whether I'm working on a website, mobile app, or
-                                other digital product, I bring my commitment to design excellence and user-centered thinking to
-                                every project I work on. I look forward to the opportunity to bring my skills and passion to your next project.
+                            In summary, if you're looking for an experienced and highly skilled software engineer with deep expertise 
+                            in Python, Javascript, data science, machine learning, entrepreneurship, and advanced software development,
+                            then I'd love to connect and discuss your next project.
                             </p>
                         </div>    
                             <div className='col-span-3 relative h-max rounded-2xl border-2 border-solid border-dark bg-light p-8 dark:bg-dark dark:border-light xl:col-span-4 md:order-1 md:col-span-8 '>
@@ -85,13 +105,13 @@ const about = () => {
                             <div className='col-span-2 flex flex-col items-end justify-between xl:col-span-8 xl:flex-row xl:items-center md:order-3'>
                                 <div className='flex flex-col items-end justify-center xl:items-center '>
                                     <span className='inline-block text-7xl font-bold  md:text-6xl sm:text-5xl xs:text-4xl'>
-                                        <AnimatedNumbers value={50} />+
+                                        <AnimatedNumbers value={25} />+
                                     </span>
                                     <h2 className='text-xl font-medium capitalize text-dark/75 dark:text-light/75 xl:text-center md:text-lg sm:text-base xs:text-sm'> Satitifed Clients</h2>
                                 </div>
                                 <div className='flex flex-col items-end justify-center xl:items-center'>
                                     <span className='inline-block text-7xl font-bold md:text-6xl sm:text-5xl xs:text-4xl'>
-                                    <AnimatedNumbers value={50} />+
+                                    <AnimatedNumbers value={10} />+
                                     </span>
                                     <h2 className='text-xl font-medium capitalize text-dark/75 dark:text-light/75 xl:text-center md:text-lg sm:text-base xs:text-sm'> Projects Compeleted</h2>
                                 </div>
